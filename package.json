@@ -1,0 +1,16 @@
+{
+    "name": "lowcode-template",
+    "version": "1.0.0",
+    "keywords": [
+      "low-code"
+    ],
+    "description": "sp的模板",
+    "engines": {
+      "node": ">=16"
+    },
+    "repository": {
+      "type": "git"
+    },
+    "license": "ISC"
+  }
+  
